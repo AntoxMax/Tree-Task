@@ -1,0 +1,10 @@
+#root {
+  max-width: 1280px;
+  padding: 2rem;
+}
+
+.create-task {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 30px;
+}
